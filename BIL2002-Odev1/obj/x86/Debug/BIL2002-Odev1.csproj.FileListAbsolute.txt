@@ -1,0 +1,4 @@
+c:\users\pc\documents\visual studio 2010\Projects\BIL2002-Odev1\bin\Debug\BIL2002-Odev1.exe
+c:\users\pc\documents\visual studio 2010\Projects\BIL2002-Odev1\bin\Debug\BIL2002-Odev1.pdb
+c:\users\pc\documents\visual studio 2010\Projects\BIL2002-Odev1\obj\x86\Debug\BIL2002-Odev1.exe
+c:\users\pc\documents\visual studio 2010\Projects\BIL2002-Odev1\obj\x86\Debug\BIL2002-Odev1.pdb
